@@ -19,14 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR Code Solution 1](./screenshot-1.png "Solution image 1")
-![QR Code Solution 2](./screenshot-2.png "Solution image 2")
+![QR Code Solution](./screenshot-2.png "Solution image")
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Codepen](https://codepen.io/kristheprogrammer/pen/gOoNdGx?editors=1100)
 
 
 ## My process
